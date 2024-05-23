@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 include_assets = "1.0.0"
+term_grid = "0.2.0"
